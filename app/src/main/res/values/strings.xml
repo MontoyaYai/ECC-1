@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ECC-1</string>
+    <string name="サブ画面タイトル" />
+    <string name="Sub_title">サブ画面タイトル</string>
+    <string name="hint">名前を入力してください</string>
+    <string name="drink">ドリンク</string>
+    <string name="food">フード</string>
+    <string name="mane">男</string>
+    <string name="woman">女</string>
+    <string name="namae">名前</string>
+    <string name="nametext" />
+    <string name="profile">プロファイル</string>
+    <string name="namaenyuu">名前を入力してください</string>
+    <string name="nendai">年代</string>
+    <string name="diez">10代</string>
+    <string name="veinte">20代</string>
+    <string name="treinta">30代</string>
+    <string name="seibetsu">性別</string>
+    <string name="botondata">データを追加</string>
+    <string name="save">保存</string>
+    <string name="cancel">キャンセル</string>
+    <string name="confirmTab" />
+    <string name="confirmFab" />
+
+    <string-array name="curryList">
+        <item>ドライカレー</item>
+        <item>カツカレー</item>
+    </string-array>
+    <string-array name="dataList">
+
+    </string-array>
+</resources>
